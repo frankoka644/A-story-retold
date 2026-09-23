@@ -1,0 +1,39 @@
+Added the following mods:
+
+Bastion Remnant Renovation Project by PNaClNH₃
+
+ChoiceTheorem's Overhauled Village by ChoiceTheorem
+
+CHA&S - Craftable Horse Armour and Saddle by Ewy
+
+Craftable Chainmail Armor by Sumbaii999
+
+Every Wood Compact by MehVahdJukaar
+
+FTB Quests by FTB Team
+
+FTB Library by FTB Team
+
+FTB Teams by FTB Team
+
+FTB XMod Compact by FTB Team
+
+FTBChecker by SajmonOriginal (original concept), reimplemented for Forge 1.20.1 by DanielhackerXD
+
+Gravestone Mod by Max Henkel
+
+Just Enough Items by mezz
+
+Just Enough Resources by way2muchnoise
+
+Just Enough Professions by Mrbysco, ShyNieke
+
+Oxidized Progression: Wood Matters! by HandLock_
+
+Planar Tools by Dreu, Fleece
+
+Changes made:
+
+Added a questbook
+
+Changed the configs
